@@ -1,0 +1,376 @@
+Public_Food_key,Food_Survey_ID,Food_Category,Food_Name,Measure_ID,Measure_desc,older_kid_Quantity,older_kid_Weight_grams,older_kid_Volume_mLs
+F000996,29101,Alcoholic beverages,"Beer, high alcohol (5% v/v & above)",74551,No Measurement,No Measurement,No Measurement,375
+F000994,29101,Alcoholic beverages,"Beer, full strength (alcohol 4-4.9% v/v)",74554,No Measurement,No Measurement,No Measurement,375
+F000995,29101,Alcoholic beverages,"Beer, full strength (alcohol 4-4.9% v/v), carbohydrate modified",74972,No Measurement,No Measurement,No Measurement,375
+F001006,29102,Alcoholic beverages,"Beer, mid-strength (alcohol 3-3.9% v/v)",74971,No Measurement,No Measurement,No Measurement,375
+F001004,29102,Alcoholic beverages,"Beer, light (alcohol 1- <3% v/v)",74558,No Measurement,No Measurement,No Measurement,375
+F000051,29301,Alcoholic beverages,"Alcoholic beverage, spirit, approximately 40% v/v, all (Brandy, Gin, Rum, Vodka and Whisky)",74560,No Measurement,No Measurement,No Measurement,30
+F002955,29401,Alcoholic beverages,"Cider, apple (alcohol approximately 4-5% v/v)",74561,No Measurement,No Measurement,No Measurement,394
+F008402,11503,Non-alcoholic beverages,"Soft drink, cola flavour",74562,can,0.8,312.0,375
+F008402,11503,Non-alcoholic beverages,"Soft drink, cola flavour",74563,bottle,0.8,499.0,600
+F008403,11503,Non-alcoholic beverages,"Soft drink, cola flavour, decaffeinated",74564,can,0.8,312.0,375
+F008403,11503,Non-alcoholic beverages,"Soft drink, cola flavour, decaffeinated",74565,bottle,0.8,499.0,600
+F008404,11504,Non-alcoholic beverages,"Soft drink, cola flavour, intense sweetened or diet",74567,bottle,0.8,480.0,600
+F008404,11504,Non-alcoholic beverages,"Soft drink, cola flavour, intense sweetened or diet",74566,can,0.8,300.0,375
+F008405,11504,Non-alcoholic beverages,"Soft drink, cola flavour, intense sweetened or diet, decaffeinated",74568,can,0.8,300.0,375
+F008405,11504,Non-alcoholic beverages,"Soft drink, cola flavour, intense sweetened or diet, decaffeinated",74569,bottle,0.8,480.0,600
+F008421,11603,Non-alcoholic beverages,"Soft drink, energy drink, Red Bull",74570,can,0.8,210.0,250
+F008424,11603,Non-alcoholic beverages,"Soft drink, energy drink, V",74571,can,0.8,210.0,250
+F008438,11501,Non-alcoholic beverages,"Soft drink, lemonade and fruit flavours",74572,can,0.8,312.0,375
+F008438,11501,Non-alcoholic beverages,"Soft drink, lemonade and fruit flavours",74573,bottle,0.8,499.0,600
+F008439,11502,Non-alcoholic beverages,"Soft drink, lemonade and fruit flavours, intense sweetened or diet",74575,bottle,0.8,480.0,600
+F008439,11502,Non-alcoholic beverages,"Soft drink, lemonade and fruit flavours, intense sweetened or diet",74574,can,0.8,300.0,375
+F008460,11501,Non-alcoholic beverages,"Soft drink, tonic water",74576,bottle,0.8,247.0,300
+F008461,11502,Non-alcoholic beverages,"Soft drink, tonic water, intense sweetened or diet",74577,bottle,0.8,240.0,300
+F003095,13101,Cereal based products and dishes,"Cone, wafer style, for ice cream",74578,cone,0.8,3.0,0
+F001420,12302,Cereals and cereal products,"Bread, flat, white, commercial",74580,flat bread or pita bread,0.8,53.0,0
+F001420,12302,Cereals and cereal products,"Bread, flat, white, commercial",74579,mountain bread,0.8,20.0,0
+F001404,12302,Cereals and cereal products,"Bread, flat (pita or Lebanese), wholemeal, commercial",74582,mountain bread,0.8,20.0,0
+F001404,12302,Cereals and cereal products,"Bread, flat (pita or Lebanese), wholemeal, commercial",74581,flat bread or pita bread,0.8,53.0,0
+F001463,12201,Cereals and cereal products,"Bread, from white flour",74587,slice,0.8,26.0,0
+F001541,12201,Cereals and cereal products,"Bread, from white flour, toasted",74589,slice,0.8,22.0,0
+F001466,12202,Cereals and cereal products,"Bread, from white flour, added calcium",74591,slice,0.8,28.0,0
+F001467,12202,Cereals and cereal products,"Bread, from white flour, added calcium, toasted",74593,slice,0.8,23.0,0
+F001468,12202,Cereals and cereal products,"Bread, from white flour, added fibre",74595,slice,0.8,29.0,0
+F001479,12202,Cereals and cereal products,"Bread, from white flour, added fibre, toasted",74597,slice,0.8,24.0,0
+F001482,12202,Cereals and cereal products,"Bread, from white flour, added iron",74599,slice,0.8,22.0,0
+F001483,12202,Cereals and cereal products,"Bread, from white flour, added iron, toasted",74601,slice,0.8,18.0,0
+F001484,12202,Cereals and cereal products,"Bread, from white flour, added omega-3 polyunsaturates",74603,slice,0.8,30.0,0
+F001485,12202,Cereals and cereal products,"Bread, from white flour, added omega-3 polyunsaturates, toasted",74605,slice,0.8,25.0,0
+F001543,12202,Cereals and cereal products,"Bread, from white Jackaroo flour, added fibre and vitamins B1 & folate & Fe",74607,slice,0.8,28.0,0
+F001544,12202,Cereals and cereal products,"Bread, from white Jackaroo flour, added fibre and vitamins B1 & folate & Fe, toasted",74608,slice,0.8,23.0,0
+F001528,12201,Cereals and cereal products,"Bread, from white flour, Italian-style, commercial",74613,slice,0.8,22.0,0
+F001529,12201,Cereals and cereal products,"Bread, from white flour, Italian-style, commercial, toasted",74615,slice,0.8,18.0,0
+F001353,12201,Cereals and cereal products,"Bread roll, from white flour",74619,bun or roll,0.8,27.0,0
+F001353,12201,Cereals and cereal products,"Bread roll, from white flour",74617,bun or roll,0.8,55.0,0
+F001358,12201,Cereals and cereal products,"Bread roll, from white flour, toasted",74622,bun or roll,0.8,23.0,0
+F001358,12201,Cereals and cereal products,"Bread roll, from white flour, toasted",74621,bun or roll,0.8,47.0,0
+F001372,12304,Cereals and cereal products,"Bread roll, topped with cheese",74623,bun or roll,0.8,68.0,0
+F001373,12304,Cereals and cereal products,"Bread roll, topped with cheese & bacon",74624,bun or roll,0.8,68.0,0
+F001553,12207,Cereals and cereal products,"Bread, from wholemeal flour",74625,slice,0.8,26.0,0
+F001597,12207,Cereals and cereal products,"Bread, from wholemeal flour, toasted",74627,slice,0.8,22.0,0
+F001573,12207,Cereals and cereal products,"Bread, from wholemeal flour, extra grainy & seeds",74629,slice,0.8,30.0,0
+F001576,12207,Cereals and cereal products,"Bread, from wholemeal flour, extra grainy & seeds, toasted",74631,slice,0.8,26.0,0
+F001360,12207,Cereals and cereal products,"Bread roll, from wholemeal flour",74634,bun or roll,0.8,55.0,0
+F001360,12207,Cereals and cereal products,"Bread roll, from wholemeal flour",74633,bun or roll,0.8,28.0,0
+F001364,12207,Cereals and cereal products,"Bread roll, from wholemeal flour, toasted",74635,bun or roll,0.8,24.0,0
+F001364,12207,Cereals and cereal products,"Bread roll, from wholemeal flour, toasted",74636,bun or roll,0.8,47.0,0
+F001545,12203,Cereals and cereal products,"Bread, from white or wholemeal flour, organic",74637,slice,0.8,38.0,0
+F001548,12203,Cereals and cereal products,"Bread, from white or wholemeal flour, organic, toasted",74639,slice,0.8,35.0,0
+F001621,12204,Cereals and cereal products,"Bread, mixed grain",74646,slice,0.8,29.0,0
+F001644,12204,Cereals and cereal products,"Bread, mixed grain, toasted",74648,slice,0.8,24.0,0
+F001513,12204,Cereals and cereal products,"Bread, from white flour, extra grainy & seeds",74609,slice,0.8,30.0,0
+F001514,12204,Cereals and cereal products,"Bread, from white flour, extra grainy & seeds, toasted",74611,slice,0.8,25.0,0
+F001365,12204,Cereals and cereal products,"Bread roll, mixed grain",74650,bun or roll,0.8,56.0,0
+F001368,12204,Cereals and cereal products,"Bread roll, mixed grain, toasted",74651,bun or roll,0.8,48.0,0
+F001457,12305,Cereals and cereal products,"Bread, from white flour, added dried fruit",74652,slice,0.8,27.0,0
+F001458,12305,Cereals and cereal products,"Bread, from wheat flour, added dried fruit, toasted",74654,slice,0.8,22.0,0
+F001600,12307,Cereals and cereal products,"Bread, garlic or herb, commercial, cooked",74641,slice,0.8,29.0,0
+F001603,12213,Cereals and cereal products,"Bread, gluten free",74642,slice,0.8,29.0,0
+F001609,12213,Cereals and cereal products,"Bread, gluten free, toasted",74644,slice,0.8,24.0,0
+F001450,12210,Cereals and cereal products,"Bread, from rye flour, sour dough",74583,slice,0.8,32.0,0
+F001451,12210,Cereals and cereal products,"Bread, from rye flour, sour dough, toasted",74585,slice,0.8,22.0,0
+F001939,12306,Cereals and cereal products,"Bun, sweet, with dried fruit, iced",74656,bun,0.8,68.0,0
+F003313,13606,Cereal based products and dishes,"Crumpet, from white flour, toasted",74657,crumpet,0.8,34.0,0
+F005896,12301,Cereals and cereal products,"Muffin, English style, from white flour",74658,muffin,0.8,61.0,0
+F005898,12301,Cereals and cereal products,"Muffin, English style, from white flour, toasted",74659,muffin,0.8,54.0,0
+F005897,12301,Cereals and cereal products,"Muffin, English style, from white flour, added dried fruit, toasted",74660,muffin,0.8,56.0,0
+F001688,11805,Non-alcoholic beverages,"Breakfast cereal, beverage, non-chocolate flavours, added vitamins A, B1, B2, B3, B6, B12, C & folate & Ca",74661,tetra pack,0.8,206.0,250
+F001374,13303,Cereal based products and dishes,"Bread, banana",74662,slice,0.8,112.0,0
+F002159,13302,Cereal based products and dishes,"Cake, lamington, unfilled",74663,lamington,0.8,100.0,0
+F002168,13303,Cereal based products and dishes,"Cake, plain butter cake, commercial, iced",74665,cupcake,0.8,16.0,0
+F002168,13303,Cereal based products and dishes,"Cake, plain butter cake, commercial, iced",74664,cupcake,0.8,132.0,0
+F003575,13605,Cereal based products and dishes,"Doughnut, jam filled, sugar coated",74666,doughnut,0.8,78.0,0
+F003573,13605,Cereal based products and dishes,"Doughnut, dusted with cinnamon & sugar",74667,doughnut,0.8,40.0,0
+F003574,13605,Cereal based products and dishes,"Doughnut, iced",74668,doughnut,0.8,50.0,0
+F005877,13304,Cereal based products and dishes,"Muffin, cake-style, berry, commercial",74669,muffin,0.8,130.0,0
+F005882,13304,Cereal based products and dishes,"Muffin, cake-style, chocolate chip, commercial",74670,muffin,0.8,130.0,0
+F006700,13602,Cereal based products and dishes,"Pikelet or pancake, sweet, commercial",74671,pikelet,0.8,20.0,0
+F008173,13307,Cereal based products and dishes,"Scone, plain, commercial",74672,scone,0.8,52.0,0
+F008172,13307,Cereal based products and dishes,"Scone, fruit, commercial",74673,scone,0.8,68.0,0
+F006143,12101,Cereals and cereal products,"Oats, rolled, uncooked",74674,sachet,0.8,27.0,0
+F007164,12601,Cereals and cereal products,"Porridge, rolled oats, prepared with water",74675,sachet,0.8,158.0,0
+F004362,13505,Cereal based products and dishes,"Hamburger, white roll, beef patty, with salad, independent takeaway outlet",74676,burger,0.8,280.0,0
+F006055,12402,Cereals and cereal products,"Noodle, wheat, instant, flavoured, dry, uncooked",74677,packet - sachet,0.8,63.0,0
+F006053,12402,Cereals and cereal products,"Noodle, wheat, instant, flavoured, boiled, drained",74679,packet - sachet,0.8,116.0,0
+F006054,12402,Cereals and cereal products,"Noodle, wheat, instant, flavoured, boiled, undrained",74680,packet - sachet,0.8,308.0,0
+F008737,13509,Cereal based products and dishes,"Spaghetti in tomato & cheese sauce, canned",74682,can,0.8,176.0,0
+F008738,13509,Cereal based products and dishes,"Spaghetti in tomato & cheese sauce, canned, reduced salt",74683,can,0.8,176.0,0
+F003305,13401,Cereal based products and dishes,"Croissant, plain",74684,croissant,0.8,54.0,0
+F006493,13405,Cereal based products and dishes,"Pastry, filled with spinach & cheese, purchased frozen, baked",74686,pastry,0.8,112.0,0
+F006493,13405,Cereal based products and dishes,"Pastry, filled with spinach & cheese, purchased frozen, baked",74685,pastry,0.8,25.0,0
+F006665,13405,Cereal based products and dishes,"Pie, savoury, meat, commercial, ready to eat",74688,pie,0.8,140.0,0
+F006665,13405,Cereal based products and dishes,"Pie, savoury, meat, commercial, ready to eat",74687,pie,0.8,30.0,0
+F006667,13405,Cereal based products and dishes,"Pie, savoury, meat, purchased frozen, baked",74690,pie,0.8,140.0,0
+F006667,13405,Cereal based products and dishes,"Pie, savoury, meat, purchased frozen, baked",74689,pie,0.8,30.0,0
+F008098,13405,Cereal based products and dishes,"Sausage roll, commercial, ready to eat",74692,sausage roll,0.8,104.0,0
+F008098,13405,Cereal based products and dishes,"Sausage roll, commercial, ready to eat",74691,sausage roll,0.8,32.0,0
+F008101,13405,Cereal based products and dishes,"Sausage roll, purchased frozen, baked",74693,sausage roll,0.8,32.0,0
+F008101,13405,Cereal based products and dishes,"Sausage roll, purchased frozen, baked",74694,sausage roll,0.8,104.0,0
+F008794,13406,Cereal based products and dishes,"Spring roll, meat & vegetable filling, commercial, deep fried",74695,roll,0.8,24.0,0
+F008794,13406,Cereal based products and dishes,"Spring roll, meat & vegetable filling, commercial, deep fried",74696,roll,0.8,56.0,0
+F006679,13402,Cereal based products and dishes,"Pie, sweet, apple, commercial",74697,pie,0.8,100.0,0
+F009102,13403,Cereal based products and dishes,"Tart, custard, commercial",74698,tart,0.8,108.0,0
+F008065,23103,Savoury sauces and condiments,"Sauce, soy, commercial",74699,plastic fish,0.8,2.0,0
+F008083,23104,Savoury sauces and condiments,"Sauce, tomato, commercial",74700,packet/sachet,0.8,11.0,0
+F008085,23104,Savoury sauces and condiments,"Sauce, tomato, commercial, reduced salt",74701,packet/sachet,0.8,11.0,0
+F002414,19401,Milk products and dishes,"Cheese, cheddar, natural, regular fat",74702,slice,0.8,17.0,0
+F002413,19402,Milk products and dishes,"Cheese, cheddar, natural, reduced fat (approximately 25%)",74703,slice,0.8,17.0,0
+F002412,19402,Milk products and dishes,"Cheese, cheddar, natural, reduced fat (approximately 15%)",74704,slice,0.8,17.0,0
+F002428,19406,Milk products and dishes,"Cheese, cheddar, processed, regular fat",74705,slice,0.8,17.0,0
+F002425,19407,Milk products and dishes,"Cheese, cheddar, processed, reduced fat (approximately 15%), added vitamin D",74706,slice,0.8,17.0,0
+F002444,19403,Milk products and dishes,"Cheese, cream, plain",74707,tub,0.8,32.0,0
+F004508,19501,Milk products and dishes,"Ice cream, vanilla flavour, regular fat",74708,cup/tub,0.8,102.0,0
+F003488,19701,Milk products and dishes,"Dairy or yoghurt dessert, chocolate, regular fat",74709,tub/container,0.8,120.0,0
+F009694,19201,Milk products and dishes,"Yoghurt, natural, regular fat (3% fat)",74710,tub/container,0.8,160.0,0
+F009741,19205,Milk products and dishes,"Yoghurt, strawberry pieces or flavoured, regular fat (3% fat)",74711,tub/container,0.8,80.0,0
+F009741,19205,Milk products and dishes,"Yoghurt, strawberry pieces or flavoured, regular fat (3% fat)",74712,tub/container,0.8,160.0,0
+F009749,19205,Milk products and dishes,"Yoghurt, vanilla flavoured, (2% fat)",74713,tub/container,0.8,140.0,0
+F009749,19205,Milk products and dishes,"Yoghurt, vanilla flavoured, (2% fat)",74714,tub/container,0.8,160.0,0
+F008155,20601,Dairy & meat substitutes,"Sausage, vegetarian style, unfortified, raw",74715,sausage,0.8,58.0,0
+F008151,20601,Dairy & meat substitutes,"Sausage, vegetarian style, added Fe, Zn and vitamin B12, raw",74716,sausage,0.8,58.0,0
+F008153,20601,Dairy & meat substitutes,"Sausage, vegetarian style, fried, no added fat",74717,fillet,0.8,80.0,0
+F009739,20502,Dairy & meat substitutes,"Yoghurt, soy based, vanilla flavoured, reduced fat (1% fat)",74718,tub/container,0.8,140.0,0
+F001973,14101,Fats and oils,"Butter, plain, salted",74719,packet/sachet,0.8,6.0,0
+F001971,14101,Fats and oils,"Butter, plain, no added salt",74720,packet/sachet,0.8,6.0,0
+F005370,14301,Fats and oils,"Margarine spread, polyunsaturated (70% fat)",74721,packet/sachet,0.8,4.0,0
+F005373,14301,Fats and oils,"Margarine spread, polyunsaturated (70% fat), reduced salt (sodium 280 mg/100 g)",74722,packet/sachet,0.8,4.0,0
+F005319,14306,Fats and oils,"Margarine spread, monounsaturated (70% fat), reduced salt (sodium 350 mg/100 g), added phytosterols",74723,packet/sachet,0.8,4.0,0
+F005309,14303,Fats and oils,"Margarine spread, monounsaturated (>65% fat)",74724,packet/sachet,0.8,4.0,0
+F005310,14303,Fats and oils,"Margarine spread, monounsaturated (>65% fat), reduced salt (sodium 360 mg/100 g)",74725,packet/sachet,0.8,4.0,0
+F005345,14304,Fats and oils,"Margarine spread, monounsaturated, reduced fat (<65% fat)",74726,packet/sachet,0.8,4.0,0
+F003729,17101,Egg products and dishes,"Egg, chicken, whole, raw",74729,egg,0.8,35.0,0
+F003721,17101,Egg products and dishes,"Egg, chicken, whole, hard-boiled",74730,egg,0.8,33.0,0
+F003725,17101,Egg products and dishes,"Egg, chicken, whole, poached",74731,egg,0.8,34.0,0
+F003718,17101,Egg products and dishes,"Egg, chicken, whole, fried, no fat added",74732,egg,0.8,31.0,0
+F003724,17102,Egg products and dishes,"Egg, chicken, whole, omega-3 polyunsaturate enriched, raw",74727,egg,0.8,35.0,0
+F003723,17102,Egg products and dishes,"Egg, chicken, whole, omega-3 polyunsaturate enriched, boiled",74728,egg,0.8,35.0,0
+F000086,16101,Fruit products and dishes,"Apple, bonza, unpeeled, raw",74733,fruit,0.8,131.0,0
+F000091,16101,Fruit products and dishes,"Apple, fuji, unpeeled, raw",74734,fruit,0.8,131.0,0
+F000092,16101,Fruit products and dishes,"Apple, golden delicious, unpeeled, raw",74735,fruit,0.8,121.0,0
+F000095,16101,Fruit products and dishes,"Apple, granny-smith, unpeeled, raw",74736,fruit,0.8,122.0,0
+F000099,16101,Fruit products and dishes,"Apple, jonathon, unpeeled, raw",74737,fruit,0.8,130.0,0
+F000105,16101,Fruit products and dishes,"Apple, pink lady, unpeeled, raw",74738,fruit,0.8,131.0,0
+F000107,16101,Fruit products and dishes,"Apple, red delicious, unpeeled, raw",74739,fruit,0.8,131.0,0
+F000111,16101,Fruit products and dishes,"Apple, royal gala, unpeeled, raw",74740,fruit,0.8,131.0,0
+F000110,16101,Fruit products and dishes,"Apple, red skin, unpeeled, raw",74741,fruit,0.8,131.0,0
+F000134,16403,Fruit products and dishes,"Apricot, raw",74742,fruit,0.8,16.0,0
+F000262,16501,Fruit products and dishes,"Banana, cavendish, peeled, raw",74744,fruit,0.8,78.0,0
+F000267,16501,Fruit products and dishes,"Banana, lady finger or sugar, peeled, raw",74745,fruit,0.8,62.0,0
+F003423,16504,Fruit products and dishes,"Custard apple, African pride, peeled, raw",74746,fruit,0.8,374.0,0
+F003496,16802,Fruit products and dishes,"Date, dried",74747,fruit,0.8,4.0,0
+F003818,16504,Fruit products and dishes,"Feijoa, raw",74748,fruit,0.8,24.0,0
+F003832,16802,Fruit products and dishes,"Fig, dried",74749,fruit,0.8,15.0,0
+F003834,16503,Fruit products and dishes,"Fig, fresh, unpeeled, raw",74750,fruit,0.8,40.0,0
+F004262,16303,Fruit products and dishes,"Grapefruit, peeled, raw",74751,fruit,0.8,206.0,0
+F004286,16504,Fruit products and dishes,"Guava, Hawaiian, raw",74752,fruit,0.8,72.0,0
+F004594,16504,Fruit products and dishes,"Jackfruit, peeled, raw",74753,fruit,0.8,644.0,0
+F004816,16601,Fruit products and dishes,"Kiwifruit, green (hayward), peeled, raw",74754,fruit,0.8,62.0,0
+F004815,16601,Fruit products and dishes,"Kiwifruit, gold, peeled, raw",74755,fruit,0.8,62.0,0
+F005174,16302,Fruit products and dishes,"Lemon, peeled, raw",74756,fruit,0.8,79.0,0
+F005199,16302,Fruit products and dishes,"Lime, peeled, raw",74757,fruit,0.8,39.0,0
+F005244,16105,Fruit products and dishes,"Loquat, peeled, raw",74758,fruit,0.8,10.0,0
+F005255,16504,Fruit products and dishes,"Lychee, peeled, raw",74759,fruit,0.8,8.0,0
+F005293,16303,Fruit products and dishes,"Mandarin, peeled, raw",74760,fruit,0.8,60.0,0
+F005299,16504,Fruit products and dishes,"Mango, peeled, raw",74761,fruit,0.8,235.0,0
+F006021,16401,Fruit products and dishes,"Nectarine, yellow, unpeeled, raw",74762,fruit,0.8,121.0,0
+F006277,16301,Fruit products and dishes,"Orange, peeled, raw",74763,fruit,0.8,105.0,0
+F006276,16301,Fruit products and dishes,"Orange, navel, peeled, raw",74764,fruit,0.8,130.0,0
+F006279,16301,Fruit products and dishes,"Orange, valencia, peeled, raw",74765,fruit,0.8,105.0,0
+F006333,16504,Fruit products and dishes,"Passionfruit, raw",74766,fruit,0.8,14.0,0
+F006573,16401,Fruit products and dishes,"Peach, yellow, unpeeled, raw",74767,fruit,0.8,116.0,0
+F006604,16103,Fruit products and dishes,"Pear, nashi, unpeeled, raw",74768,fruit,0.8,152.0,0
+F006628,16503,Fruit products and dishes,"Persimmon, peeled, raw",74769,fruit,0.8,61.0,0
+F006708,16505,Fruit products and dishes,"Pineapple, canned in pineapple juice, drained",74770,slice,0.8,32.0,0
+F006832,16403,Fruit products and dishes,"Plum, unpeeled, raw",74771,fruit,0.8,53.0,0
+F006826,16404,Fruit products and dishes,"Plum, dark, canned in syrup, drained",74772,fruit,0.8,25.0,0
+F006842,16504,Fruit products and dishes,"Pomegranate, peeled, raw",74773,fruit,0.8,192.0,0
+F007457,16504,Fruit products and dishes,"Prickly pear, peeled, raw",74774,fruit,0.8,69.0,0
+F007494,16802,Fruit products and dishes,Prune (dried plum),74775,fruit,0.8,6.0,0
+F007591,16105,Fruit products and dishes,"Quince, peeled, raw",74776,fruit,0.8,370.0,0
+F007610,16801,Fruit products and dishes,Raisin,74777,box,0.8,32.0,0
+F007612,16504,Fruit products and dishes,"Rambutan, raw",74778,fruit,0.8,13.0,0
+F008952,16201,Fruit products and dishes,"Strawberry, raw",74779,fruit,0.8,10.0,0
+F008983,16801,Fruit products and dishes,Sultana,74780,box,0.8,32.0,0
+F009080,16503,Fruit products and dishes,"Tamarillo, peeled, raw",74781,fruit,0.8,57.0,0
+F009087,16303,Fruit products and dishes,"Tangelo, peeled, raw",74782,fruit,0.8,92.0,0
+F009088,16303,Fruit products and dishes,"Tangerine or tangor, peeled, raw",74783,fruit,0.8,69.0,0
+F006830,16804,Fruit products and dishes,"Plum, salted",74784,plum,0.8,1.0,0
+F002755,18903,"Meat, poultry and game products and dishes","Chicken, nugget, purchased frozen, baked, no added fat",74785,nugget,0.8,16.0,0
+F002752,18903,"Meat, poultry and game products and dishes","Chicken, nugget, purchased from independent takeaway & fast food chain, fried, undefined oil",74786,nugget,0.8,14.0,0
+F002752,18903,"Meat, poultry and game products and dishes","Chicken, nugget, purchased from independent takeaway & fast food chain, fried, undefined oil",74787,strip,0.8,30.0,0
+F002751,18903,"Meat, poultry and game products and dishes","Chicken, nugget, purchased from fast food chain, grilled",74788,tender,0.8,32.0,0
+F000228,18601,"Meat, poultry and game products and dishes","Bacon, middle rasher, untrimmed, raw",74789,rasher,0.8,51.0,0
+F000227,18601,"Meat, poultry and game products and dishes","Bacon, middle rasher, untrimmed, fried, no added fat",74790,rasher,0.8,34.0,0
+F000231,18601,"Meat, poultry and game products and dishes","Bacon, shortcut, as purchased without rind, fried, no added fat",74791,rasher,0.8,18.0,0
+F001322,18606,"Meat, poultry and game products and dishes","Braised steak & onions, canned",74792,can,0.8,340.0,0
+F004025,18502,"Meat, poultry and game products and dishes","Frankfurt, cooked",74793,frankfurt,0.8,20.0,0
+F004025,18502,"Meat, poultry and game products and dishes","Frankfurt, cooked",74794,frankfurt,0.8,46.0,0
+F004299,18602,"Meat, poultry and game products and dishes","Ham, leg, lean",74795,slice,0.8,20.0,0
+F006675,13405,Cereal based products and dishes,"Pie, steak & kidney, canned",74796,can,0.8,340.0,0
+F007459,18602,"Meat, poultry and game products and dishes",Prosciutto,74797,slice,0.8,14.0,0
+F008112,18501,"Meat, poultry and game products and dishes","Sausage, beef, raw",74798,sausage,0.8,69.0,0
+F008106,18501,"Meat, poultry and game products and dishes","Sausage, beef, fried, no added fat",74799,sausage,0.8,63.0,0
+F008107,18501,"Meat, poultry and game products and dishes","Sausage, beef, grilled, no added fat",74800,sausage,0.8,62.0,0
+F008126,18603,"Meat, poultry and game products and dishes","Sausage, chorizo, uncooked",74801,sausage,0.8,118.0,0
+F008125,18603,"Meat, poultry and game products and dishes","Sausage, chorizo, fried, no added fat",74802,sausage,0.8,98.0,0
+F009450,18606,"Meat, poultry and game products and dishes","Sausages & vegetables, canned",74803,can,0.8,340.0,0
+F009452,18606,"Meat, poultry and game products and dishes","Steak & vegetables, canned",74804,can,0.8,340.0,0
+F008233,15501,Fish and seafood products and dishes,"Shark, battered, deep-fried, takeaway outlet",74805,fillet,0.8,54.0,0
+F003950,15501,Fish and seafood products and dishes,"Fish, white flesh, battered, packaged frozen, baked, no added fat",74806,fillet,0.8,54.0,0
+F003954,15501,Fish and seafood products and dishes,"Fish, white flesh, crumbed, packaged frozen, baked, no added fat",74807,fillet,0.8,54.0,0
+F003907,15501,Fish and seafood products and dishes,"Fish, battered or crumbed, from takeaway outlet, deep fried, blended frying fat, ready to eat",74808,fillet,0.8,200.0,0
+F003897,15501,Fish and seafood products and dishes,"Fish finger, crumbed, purchased frozen, raw",74809,fish finger,0.8,22.0,0
+F003896,15501,Fish and seafood products and dishes,"Fish finger, crumbed, purchased frozen, grilled, no added fat",74810,fish finger,0.8,16.0,0
+F007864,15102,Fish and seafood products and dishes,"Salmon, smoked, sliced",74811,slice,0.8,20.0,0
+F009285,15401,Fish and seafood products and dishes,"Tuna, canned in brine, drained",74812,can,0.8,56.0,0
+F007193,26101,Snack foods,"Potato crisps or chips, plain, salted",74813,bag or packet,0.8,40.0,0
+F007193,26101,Snack foods,"Potato crisps or chips, plain, salted",74814,bag or packet,0.8,17.0,0
+F007201,26101,Snack foods,"Potato crisps or chips, salt & vinegar flavoured",74815,bag or packet,0.8,36.0,0
+F007201,26101,Snack foods,"Potato crisps or chips, salt & vinegar flavoured",74816,bag or packet,0.8,15.0,0
+F007204,26101,Snack foods,"Potato straws, French fries, plain",74817,packet/bag,0.8,15.0,0
+F009073,26201,Snack foods,"Taco shell, from corn flour, plain",74818,taco shell,0.8,9.0,0
+F000279,28102,Confectionery and cereal/nut/fruit/seed bars,"Bar, cherry & coconut centre, dark chocolate-coated",74819,bar,0.8,44.0,0
+F000285,28102,Confectionery and cereal/nut/fruit/seed bars,"Bar, coconut cream centre, milk chocolate-coated",74820,bar,0.8,36.0,0
+F000296,28103,Confectionery and cereal/nut/fruit/seed bars,"Bar, honeycomb centre, milk chocolate-coated",74821,bar,0.8,40.0,0
+F000348,28103,Confectionery and cereal/nut/fruit/seed bars,"Bar, nougat & caramel centre, milk chocolate-coated",74822,bar,0.8,42.0,0
+F002929,28101,Confectionery and cereal/nut/fruit/seed bars,"Chocolate, milk",74824,bar,0.8,40.0,0
+F002929,28101,Confectionery and cereal/nut/fruit/seed bars,"Chocolate, milk",74823,frog,0.8,12.0,0
+F002934,28103,Confectionery and cereal/nut/fruit/seed bars,"Chocolate, milk, fondant or caramel filled",74825,frog/koala,0.8,16.0,0
+F002937,28102,Confectionery and cereal/nut/fruit/seed bars,"Chocolate, milk, with dried fruit & nuts",74826,bar,0.8,40.0,0
+F002939,28102,Confectionery and cereal/nut/fruit/seed bars,"Chocolate, milk, with nuts",74827,bar,0.8,40.0,0
+F002946,28101,Confectionery and cereal/nut/fruit/seed bars,"Chocolate, white",74828,bar,0.8,40.0,0
+F003100,28103,Confectionery and cereal/nut/fruit/seed bars,"Confectionery, chocolate centre, sugar-coated",74829,packet,0.8,40.0,0
+F004600,27201,Sugar products and dishes,"Jam, berry",74833,packet/sachet,0.8,11.0,0
+F004607,27201,Sugar products and dishes,"Jam, stone fruit",74834,packet/sachet,0.8,11.0,0
+F004604,27201,Sugar products and dishes,"Jam, plum",74835,packet/sachet,0.8,11.0,0
+F005421,27201,Sugar products and dishes,"Marmalade, orange",74836,packet/sachet,0.8,11.0,0
+F008777,27204,Sugar products and dishes,"Spread, hazelnut & chocolate flavoured",74837,packet/sachet,0.8,16.0,0
+F004380,27102,Sugar products and dishes,Honey,74838,packet/sachet,0.8,11.0,0
+F008969,27101,Sugar products and dishes,"Sugar, brown",74840,sachet/packet,0.8,2.0,0
+F008973,27101,Sugar products and dishes,"Sugar, raw",74841,sachet/packet,0.8,2.0,0
+F004615,27301,Sugar products and dishes,"Jelly, sugar sweetened, all flavours, prepared",74842,tub,0.8,100.0,0
+F005213,28401,Confectionery and cereal/nut/fruit/seed bars,"Liquorice, allsorts",74843,piece,No Measurement,No Measurement,No Measurement
+F005215,28103,Confectionery and cereal/nut/fruit/seed bars,"Liquorice, chocolate-coated",74832,log,No Measurement,No Measurement,No Measurement
+F000144,24402,Vegetable products and dishes,"Artichoke, globe, raw",74844,artichoke,0.8,106.0,0
+F000142,24402,Vegetable products and dishes,"Artichoke, globe, boiled, drained",74845,heart/item,0.8,22.0,0
+F000141,24402,Vegetable products and dishes,"Artichoke heart, canned in brine, drained",74846,heart/item,0.8,32.0,0
+F000155,24402,Vegetable products and dishes,"Asparagus, green, raw",74847,spear,0.8,13.0,0
+F000151,24402,Vegetable products and dishes,"Asparagus, green, boiled, drained",74848,spear,0.8,9.0,0
+F000149,24402,Vegetable products and dishes,"Asparagus, canned in brine, drained",74849,spear,0.8,10.0,0
+F000162,24705,Vegetable products and dishes,"Avocado, raw",74850,avocado,0.8,127.0,0
+F000396,24403,Vegetable products and dishes,"Basil, green, raw",74851,bunch,0.8,32.0,0
+F001015,24302,Vegetable products and dishes,"Beetroot, fresh, purple, peeled, raw",74852,beetroot,0.8,66.0,0
+F001013,24302,Vegetable products and dishes,"Beetroot, fresh, purple, peeled, baked, no added fat",74853,beetroot,0.8,54.0,0
+F001014,24302,Vegetable products and dishes,"Beetroot, fresh, purple, peeled, boiled, drained",74854,beetroot,0.8,61.0,0
+F001010,24302,Vegetable products and dishes,"Beetroot, canned in brine, drained",74856,slice,0.8,15.0,0
+F001301,24201,Vegetable products and dishes,"Bok choy, raw",74857,bok choy,0.8,96.0,0
+F001300,24201,Vegetable products and dishes,"Bok choy, fried, no added fat",74858,bok choy,0.8,67.0,0
+F001302,24201,Vegetable products and dishes,"Bok choy, steamed",74859,bok choy,0.8,92.0,0
+F001905,24202,Vegetable products and dishes,"Broccoli, fresh, raw",74860,floret/piece,0.8,16.0,0
+F001904,24202,Vegetable products and dishes,"Broccoli, fresh, microwaved",74861,floret/piece,0.8,15.0,0
+F001900,24202,Vegetable products and dishes,"Broccoli, fresh, boiled, drained",74862,floret/piece,0.8,15.0,0
+F001899,24202,Vegetable products and dishes,"Broccoli, fresh, baked, no added fat",74863,floret/piece,0.8,13.0,0
+F001909,24202,Vegetable products and dishes,"Broccolini, fresh, raw",74864,floret/stalk,0.8,23.0,0
+F001908,24202,Vegetable products and dishes,"Broccolini, fresh, boiled, drained",74865,floret/stalk,0.8,15.0,0
+F001914,24201,Vegetable products and dishes,"Brussels sprout, fresh, raw",74866,brussel sprout,0.8,15.0,0
+F001913,24201,Vegetable products and dishes,"Brussels sprout, fresh, boiled, drained",74867,brussel sprout,0.8,17.0,0
+F002239,24705,Vegetable products and dishes,"Capsicum, green, fresh, raw",74868,capsicum,0.8,222.0,0
+F002238,24705,Vegetable products and dishes,"Capsicum, green, fresh, fried, no added fat",74869,capsicum,0.8,200.0,0
+F002247,24705,Vegetable products and dishes,"Capsicum, red, fresh, raw",74870,capsicum,0.8,195.0,0
+F002246,24705,Vegetable products and dishes,"Capsicum, red, fresh, fried, no added fat",74871,capsicum,0.8,217.0,0
+F002266,24301,Vegetable products and dishes,"Carrot, baby, peeled, fresh, raw",74872,baby carrot,0.8,14.0,0
+F002265,24301,Vegetable products and dishes,"Carrot, baby, peeled, fresh, boiled, drained",74873,baby carrot,0.8,13.0,0
+F002263,24301,Vegetable products and dishes,"Carrot, baby, baked, no added fat",74874,baby carrot,0.8,13.0,0
+F002276,24301,Vegetable products and dishes,"Carrot, mature, peeled, fresh, raw",74875,carrot,0.8,59.0,0
+F002276,24301,Vegetable products and dishes,"Carrot, mature, peeled, fresh, raw",74876,carrot,0.8,103.0,0
+F002274,24301,Vegetable products and dishes,"Carrot, mature, peeled, fresh, baked, no added fat",74877,carrot,0.8,85.0,0
+F002275,24301,Vegetable products and dishes,"Carrot, mature, peeled, fresh, boiled, drained",74878,carrot,0.8,96.0,0
+F002378,24202,Vegetable products and dishes,"Cauliflower, fresh, raw",74879,floret,0.8,29.0,0
+F002377,24202,Vegetable products and dishes,"Cauliflower, fresh, boiled, drained",74880,floret,0.8,28.0,0
+F002384,24302,Vegetable products and dishes,"Celeriac, peeled, raw",74881,celeriac,0.8,203.0,0
+F002390,24402,Vegetable products and dishes,"Celery, fresh, raw",74882,stalk,0.8,32.0,0
+F002389,24402,Vegetable products and dishes,"Celery, fresh, fried, no added fat",74883,stalk,0.8,29.0,0
+F002896,24705,Vegetable products and dishes,"Chilli (chili), green, raw",74884,chilli,0.8,12.0,0
+F002894,24705,Vegetable products and dishes,"Chilli (chili), green, fried, no added fat",74885,chilli,0.8,10.0,0
+F002901,24705,Vegetable products and dishes,"Chilli (chili), red, raw",74886,chilli,0.8,12.0,0
+F002900,24705,Vegetable products and dishes,"Chilli (chili), red, fried, no added fat",74887,chilli,0.8,10.0,0
+F002949,24705,Vegetable products and dishes,"Choko, peeled, fresh, raw",74888,choko,0.8,134.0,0
+F002948,24705,Vegetable products and dishes,"Choko, peeled, fresh, boiled, drained",74889,choko,0.8,113.0,0
+F003192,24403,Vegetable products and dishes,"Coriander, fresh, leaves & stems",74890,bunch,0.8,32.0,0
+F003209,24704,Vegetable products and dishes,"Corn, fresh on cob, raw",74891,ear (corn),0.8,130.0,0
+F003200,24704,Vegetable products and dishes,"Corn, fresh on cob, boiled, drained",74893,cobette,0.8,42.0,0
+F003200,24704,Vegetable products and dishes,"Corn, fresh on cob, boiled, drained",74892,ear (corn),0.8,125.0,0
+F003321,24705,Vegetable products and dishes,"Cucumber, Lebanese, unpeeled, raw",74894,cucumber,0.8,139.0,0
+F003324,24705,Vegetable products and dishes,"Cucumber, telegraph, unpeeled, raw",74895,cucumber,0.8,233.0,0
+F003761,24705,Vegetable products and dishes,"Eggplant, unpeeled, fresh, raw",74896,eggplant,0.8,367.0,0
+F003760,24705,Vegetable products and dishes,"Eggplant, unpeeled, fresh, grilled, no added fat",74897,eggplant,0.8,342.0,0
+F003759,24705,Vegetable products and dishes,"Eggplant, unpeeled, fresh, baked, no added fat",74898,eggplant,0.8,264.0,0
+F004206,23202,Savoury sauces and condiments,"Gherkin, pickled, drained, commercial",74899,whole,0.8,20.0,0
+F005164,24802,Vegetable products and dishes,"Leek, fresh, raw",74900,leek,0.8,156.0,0
+F005163,24802,Vegetable products and dishes,"Leek, fresh, fried, no added fat",74901,leek,0.8,130.0,0
+F005162,24802,Vegetable products and dishes,"Leek, fresh, boiled, drained",74902,leek,0.8,141.0,0
+F005192,24401,Vegetable products and dishes,"Lettuce, iceberg, raw",74903,head (lettuce),0.8,456.0,0
+F005700,24403,Vegetable products and dishes,"Mint, fresh, raw",74904,bunch,0.8,32.0,0
+F005946,24703,Vegetable products and dishes,"Mushroom, common, fresh, raw",74905,mushroom,0.8,28.0,0
+F005945,24703,Vegetable products and dishes,"Mushroom, common, fresh, fried, no added fat",74906,mushroom,0.8,15.0,0
+F005949,24703,Vegetable products and dishes,"Mushroom, common, vitamin D enhanced, fresh, raw",74907,mushroom,0.8,28.0,0
+F005948,24703,Vegetable products and dishes,"Mushroom, common, vitamin D enhanced, fresh, fried, no added fat",74908,mushroom,0.8,15.0,0
+F006194,24705,Vegetable products and dishes,"Okra, cooked, no added fat",74909,okra,0.8,8.0,0
+F006198,23202,Savoury sauces and condiments,"Olive, green or black, drained",74910,whole,0.8,3.0,0
+F006225,24802,Vegetable products and dishes,"Onion, mature, brown skinned, peeled, raw",74911,onion,0.8,114.0,0
+F006243,24802,Vegetable products and dishes,"Onion, mature, white skinned, peeled, fresh, raw",74912,onion,0.8,83.0,0
+F006250,24802,Vegetable products and dishes,"Onion, spring, fresh, raw",74913,spring onion,0.8,12.0,0
+F006249,24802,Vegetable products and dishes,"Onion, spring, fresh, fried, no added fat",74914,spring onion,0.8,7.0,0
+F006328,24302,Vegetable products and dishes,"Parsnip, peeled, fresh, raw",74915,parsnip,0.8,58.0,0
+F006326,24302,Vegetable products and dishes,"Parsnip, peeled, fresh, baked, no added fat",74916,parsnip,0.8,54.0,0
+F006327,24302,Vegetable products and dishes,"Parsnip, peeled, fresh, boiled, drained",74917,parsnip,0.8,54.0,0
+F007235,24102,Vegetable products and dishes,"Potato, chips, regular, fast food outlet, deep fried, blended oil, salted",74918,medium,0.8,94.0,0
+F007236,24102,Vegetable products and dishes,"Potato, chips, regular, fast food outlet, deep fried, monounsaturated oil, salted",74920,medium,0.8,140.0,0
+F007238,24102,Vegetable products and dishes,"Potato, chips, regular, independent takeaway outlet, deep fried, blended oil, salted",74922,takeaway medium/regular,0.8,160.0,0
+F007242,24102,Vegetable products and dishes,"Potato, chips, regular, purchased frozen, baked, no added fat",74924,takeaway medium/regular,0.8,160.0,0
+F007247,24101,Vegetable products and dishes,"Potato, coliban, peeled, raw",74925,potato,0.8,140.0,0
+F007244,24101,Vegetable products and dishes,"Potato, coliban, peeled, baked, no added fat",74926,potato,0.8,93.0,0
+F007245,24101,Vegetable products and dishes,"Potato, coliban, peeled, boiled, drained",74927,potato,0.8,138.0,0
+F007254,24101,Vegetable products and dishes,"Potato, desiree, peeled, raw",74928,potato,0.8,110.0,0
+F007250,24101,Vegetable products and dishes,"Potato, desiree, peeled, baked, no added fat",74929,potato,0.8,73.0,0
+F007252,24101,Vegetable products and dishes,"Potato, desiree, peeled, boiled, drained",74930,potato,0.8,107.0,0
+F007308,24101,Vegetable products and dishes,"Potato, new, peeled, raw",74933,potato,0.8,55.0,0
+F007305,24101,Vegetable products and dishes,"Potato, new, peeled, baked, no added fat",74934,potato,0.8,37.0,0
+F007306,24101,Vegetable products and dishes,"Potato, new, peeled, boiled, drained",74935,potato,0.8,54.0,0
+F007325,24101,Vegetable products and dishes,"Potato, pale skin, peeled, raw",74936,potato,0.8,140.0,0
+F007314,24101,Vegetable products and dishes,"Potato, pale skin, peeled, baked, no added fat",74937,potato,0.8,93.0,0
+F007320,24101,Vegetable products and dishes,"Potato, pale skin, peeled, boiled, drained",74938,potato,0.8,138.0,0
+F007361,24101,Vegetable products and dishes,"Potato, pontiac, peeled, raw",74939,potato,0.8,192.0,0
+F007358,24101,Vegetable products and dishes,"Potato, pontiac, peeled, baked, no added fat",74940,potato,0.8,126.0,0
+F007359,24101,Vegetable products and dishes,"Potato, pontiac, peeled, boiled, drained",74941,potato,0.8,188.0,0
+F007368,24101,Vegetable products and dishes,"Potato, red skin, peeled, raw",74942,potato,0.8,192.0,0
+F007364,24101,Vegetable products and dishes,"Potato, red skin, peeled, baked, no added fat",74943,potato,0.8,126.0,0
+F007366,24101,Vegetable products and dishes,"Potato, red skin, peeled, boiled, drained",74944,potato,0.8,188.0,0
+F007386,24101,Vegetable products and dishes,"Potato, sebago, peeled, raw",74945,potato,0.8,196.0,0
+F007383,24101,Vegetable products and dishes,"Potato, sebago, peeled, baked, no added fat",74946,potato,0.8,93.0,0
+F007384,24103,Vegetable products and dishes,"Potato, sebago, peeled, boiled, drained",74947,potato,0.8,222.0,0
+F007269,24102,Vegetable products and dishes,"Potato, fries, fast food outlet, deep fried, monounsaturated oil, salted",74931,medium,0.8,83.0,0
+F007606,24302,Vegetable products and dishes,"Radish, red skinned, unpeeled, raw",74948,radish,0.8,16.0,0
+F007608,24302,Vegetable products and dishes,"Radish, white skinned, peeled, raw",74949,radish,0.8,16.0,0
+F008227,24802,Vegetable products and dishes,"Shallot, peeled, fresh, raw",74950,shallot,0.8,4.0,0
+F008226,24802,Vegetable products and dishes,"Shallot, peeled, fresh, fried, no added fat",74951,shallot,0.8,5.0,0
+F008373,24501,Vegetable products and dishes,"Snow pea, fresh, raw",74952,snow pea,0.8,3.0,0
+F008372,24501,Vegetable products and dishes,"Snow pea, fresh, fried, no added fat",74953,snow pea,0.8,3.0,0
+F008371,24501,Vegetable products and dishes,"Snow pea, fresh, boiled, drained",74954,snow pea,0.8,3.0,0
+F008811,24702,Vegetable products and dishes,"Squash, button, fresh, raw",74955,squash,0.8,46.0,0
+F008810,24702,Vegetable products and dishes,"Squash, button, fresh, boiled, drained",74956,squash,0.8,38.0,0
+F009021,24302,Vegetable products and dishes,"Swede, peeled, fresh, raw",74957,swede,0.8,221.0,0
+F009020,24302,Vegetable products and dishes,"Swede, peeled, fresh, boiled, drained",74958,swede,0.8,206.0,0
+F009033,24302,Vegetable products and dishes,"Sweet potato, orange flesh, peeled, fresh, baked, no added fat",74959,sweet potato,0.8,275.0,0
+F009034,24302,Vegetable products and dishes,"Sweet potato, orange flesh, peeled, fresh, boiled, drained",74960,sweet potato,0.8,312.0,0
+F009190,24601,Vegetable products and dishes,"Tomato, cherry, raw",74961,tomato,0.8,6.0,0
+F009193,24601,Vegetable products and dishes,"Tomato, common, raw",74962,tomato,0.8,122.0,0
+F009211,24601,Vegetable products and dishes,"Tomato, roma, raw",74963,tomato,0.8,99.0,0
+F009340,24302,Vegetable products and dishes,"Turnip, white, peeled, fresh, raw",74964,turnip,0.8,98.0,0
+F009339,24302,Vegetable products and dishes,"Turnip, white, peeled, fresh, boiled, no added fat",74965,turnip,0.8,93.0,0
+F009775,24702,Vegetable products and dishes,"Zucchini, green skin, fresh, unpeeled, raw",74966,zucchini,0.8,156.0,0
+F009774,24702,Vegetable products and dishes,"Zucchini, green skin, fresh, unpeeled, fried, no added fat",74967,zucchini,0.8,110.0,0
+F009773,24702,Vegetable products and dishes,"Zucchini, green skin, fresh, unpeeled, boiled, drained",74968,zucchini,0.8,131.0,0
+F009766,24702,Vegetable products and dishes,"Zucchini, golden, fresh, unpeeled, raw",74969,zucchini,0.8,156.0,0
+F009765,24702,Vegetable products and dishes,"Zucchini, golden, fresh, unpeeled, fried, no added fat",74970,zucchini,0.8,156.0,0
